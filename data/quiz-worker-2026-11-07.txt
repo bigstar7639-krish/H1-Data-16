@@ -94,3 +94,6 @@ A: Python - Science: Computers
 Auto Quiz - Chocolate 🧠
 Q: In The Bangles' 'Manic Monday', what time is it already?
 A: Six o'clock - Entertainment: Music
+Auto Quiz - Fruit 🧠
+Q: What is the most preferred image format used for logos in the Wikimedia database?
+A: .svg - Science: Computers
