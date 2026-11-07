@@ -79,3 +79,6 @@ A: South Park - Entertainment: Cartoon & Animations
 Auto Quiz - Earth 🧠
 Q: Who was world chess champion between 1894 and 1921
 A: Emanuel Lasker - Entertainment: Board Games
+Auto Quiz - Coffee 🧠
+Q: When was the 3rd album "Notes from the Underground" of the band "Hollywood Undead" released?
+A: 2013 - Entertainment: Music
