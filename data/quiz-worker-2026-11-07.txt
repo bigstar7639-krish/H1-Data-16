@@ -91,3 +91,6 @@ A: Ivana Zelníčková - Celebrities
 Auto Quiz - Burger 🧠
 Q: Which computer language would you associate Django framework with?
 A: Python - Science: Computers
+Auto Quiz - Chocolate 🧠
+Q: In The Bangles' 'Manic Monday', what time is it already?
+A: Six o'clock - Entertainment: Music
