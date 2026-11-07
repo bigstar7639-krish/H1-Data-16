@@ -97,3 +97,6 @@ A: Six o'clock - Entertainment: Music
 Auto Quiz - Fruit 🧠
 Q: What is the most preferred image format used for logos in the Wikimedia database?
 A: .svg - Science: Computers
+Auto Quiz - Vegetable 🧠
+Q: In the game Overwatch, which hero out of the following 4 is from Brazil?
+A: Lúcio - Entertainment: Video Games
