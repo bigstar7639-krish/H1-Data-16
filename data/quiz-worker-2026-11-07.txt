@@ -88,3 +88,6 @@ A: Ladyhawke - Entertainment: Music
 Auto Quiz - Pizza 🧠
 Q: Who was Donald Trump's first wife?
 A: Ivana Zelníčková - Celebrities
+Auto Quiz - Burger 🧠
+Q: Which computer language would you associate Django framework with?
+A: Python - Science: Computers
