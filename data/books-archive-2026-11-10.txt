@@ -79,3 +79,7 @@ Health - communitymentalh0000harv - Community mental health and social psychiatr
 Health - collegeuniversit0000nati_q0x2 - College and university facilities guide for health, physical education, recreation, and athletics
 Music - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
 Music - bwb_S0-BQA-647 - A General HIstory of MUsic
+Movie - thatmovieinyourh0000davi - That Movie in Your Head: Guide to Improvising Stories on Video
+Movie - MyMovie_20190227 - My Movie
+Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb
+Temple - papertemple0000dean - Paper Temple
