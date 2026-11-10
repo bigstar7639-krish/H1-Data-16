@@ -67,3 +67,7 @@ Dog - algonquinstoryof0000dion_a1x9 - Algonquin The Story of a Great Dog
 Dog - bwb_S0-DHU-921 - Dog Stories
 Cat - morphologicaleff0000pres - The morphological effects of infant-and adult-onset monocular paralysis on cells in the cat lateral geniculate nucleus
 Cat - bwb_C0-CEJ-450 - ITS LIKE THIS, CAT
+Food - lunchboxfood0000shar_x1h2 - Lunch Box Food
+Food - thomasfoodbevera0000rich - Thomas Food & Beverage Market Place 2006 (Thomas Food and Beverage Market Place)
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - politicsofsoutha0000gemm_j6v9 - The politics of South African cricket
