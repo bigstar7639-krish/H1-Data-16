@@ -404,3 +404,6 @@ Health - Nudge
 Health - Health psychology
 Health - Health Psychology
 Movie - Better Than the Movies
+Music - Soul Music
+Music - Blood Music
+Music - Night Music
